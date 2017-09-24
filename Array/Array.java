@@ -16,7 +16,7 @@ public class Array {
 		int Size = 0;
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.println("�迭 ũ��: ");
+		System.out.println("¹è¿­ Å©±â: ");
 		Size = scan.nextInt();
 		
 		int [] Array = new int[Size];
