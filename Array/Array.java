@@ -36,8 +36,9 @@ public class Array {
 	//
 	char [] ch = new char[26];
 	for(char c = 'A'; c <= 'Z'; c++)
+	{
 		ch[c-65] = c;
-	
+	}
 	
 	int [][] ar;
 	ar = new int [3][4];
