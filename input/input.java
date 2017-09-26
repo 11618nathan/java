@@ -5,13 +5,13 @@ public class input
 {
 	public static void main(String[] args) 
 	{
-		// ÀÔ·Â
+		// ì…ë ¥
 		Scanner scan =  new Scanner(System.in);
 		
-		// Ã¹ ¹øÂ° ¹®ÀÚ
+		// ì²« ë²ˆì§¸ ë¬¸ì
 		char x  = scan.nextLine().charAt(0);
 		
-		// ¹®ÀÚ¿­ ÀÔ·Â
+		// ë¬¸ìì—´ ì…ë ¥
 		String s = scan.nextLine();
 	}
 }
