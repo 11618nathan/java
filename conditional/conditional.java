@@ -3,7 +3,7 @@ public class conditional
 {
 	public static void main(String[] args) 
 	{
-		// Á¶°Ç¹®
+		// ÃÂ¶Â°Ã‡Â¹Â®
 		if (true)
 		{
 			
