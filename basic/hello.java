@@ -45,11 +45,4 @@ public class Hello {
 	
 	}
 	
-	String s = "AAA";
-	S += "BBB";  //STRCAT(s, "BBB");
-	S = "";
-	if(s=="BBB")
-		System.out.println(s);
-	
-	
 }
