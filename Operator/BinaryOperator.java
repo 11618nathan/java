@@ -1,4 +1,4 @@
-/*
+
 package operator;
 
 public class BinaryOperator 
@@ -30,4 +30,3 @@ public class BinaryOperator
 		System.out.println("x % y = " + result5);
 	}
 }
-*/
