@@ -9,23 +9,23 @@ public class BinaryOperator
 		int y = 618;
 		int result1, result2, result3, result4, result5 = 0;
 		
-		// +¿¬»êÀÚ
+		// +ì—°ì‚°ì
 		result1 = x + y; 
 		System.out.println("x + y = " + result1);
 		
-		// -¿¬»êÀÚ
+		// -ì—°ì‚°ì
 		result2 = x - y;
 		System.out.println("x - y = " + result2);
 		
-		// *¿¬»êÀÚ
+		// *ì—°ì‚°ì
 		result3 = x * y;
 		System.out.println("x * y = " + result3);
 		
-		// /¿¬»êÀÚ
+		// /ì—°ì‚°ì
 		result4 = x / y;
 		System.out.println("x / y = " + result4);
 		
-		// %¿¬»êÀÚ - ³ª¸ÓÁö
+		// %ì—°ì‚°ì - ë‚˜ë¨¸ì§€
 		result5 = x % y;
 		System.out.println("x % y = " + result5);
 	}
