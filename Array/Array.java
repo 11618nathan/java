@@ -3,27 +3,7 @@ import java.util.Scanner;
 
 public class Array {
 
-	@SuppressWarnings("resource")
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		int [] Array; 
-		Array = new int[5];
-		
-		for(int i = 0; i<5; i++)
-			Array[i]= 0;
-		
-		int Size = 0;
-		Scanner scan = new Scanner(System.in);
-		
-		System.out.println("¹è¿­ Å©±â: ");
-		Size = scan.nextInt();
-		
-		int [] Array = new int[Size];
-		
-		for(int i = 0; i<Size; i++)
-			System.out.println(Array[i]);
-	}
+	
 	
 	//
 	Random r = new Random();
