@@ -1,4 +1,4 @@
-/*
+
 package operator;
 
 public class UnaryOperator 
@@ -7,13 +7,12 @@ public class UnaryOperator
 	{
 		int x = 11618;
 		
-		// +��ȣ
+		// +ºÎÈ£
 		int result1 = +x;
 		System.out.println("+x = " + result1);
 		
-		// -��ȣ
+		// -ºÎÈ£
 		int result2 = -x;
 		System.out.println("-x = " + result2);
 	}
 }
-*/
