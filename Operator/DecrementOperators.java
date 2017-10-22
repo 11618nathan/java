@@ -6,11 +6,11 @@ public class DecrementOperators
 	{
 		int x = 11618;
 		
-		// --ÇÇ¿¬»êÀÚ - ¼öÇà Àü -1
+		// --í”¼ì—°ì‚°ì - ìˆ˜í–‰ ì „ -1
 		--x;
 		System.out.println("x++: " + x);
 		
-		// ÇÇ¿¬»êÀÚ-- - ¼öÇà ÈÄ -1 
+		// í”¼ì—°ì‚°ì-- - ìˆ˜í–‰ í›„ -1 
 		x--;
 		System.out.println("x++: " + x);
 	}
